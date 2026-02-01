@@ -14,3 +14,8 @@ git status
 git restore testing.py
 clear
 git status
+git remote add origin https://github.com/daulatchatur-hub/github-for-devops-workshop.git
+git remote -v
+git remote set-url origin https://token@github.com/daulatchatur-hub/github-for-devops-workshop.git
+git remote -v
+git push origin master 
