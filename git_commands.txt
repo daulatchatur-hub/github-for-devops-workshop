@@ -22,3 +22,6 @@ git push origin master
 
 we can push the file using ssh key without using token
 this is new chnges in file
+
+you commit any changes in github side then local to see that changes you want git pull command use
+git pull origin master
