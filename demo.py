@@ -1,7 +1,10 @@
-def my_function():
+"""Demo module for pylint compliance."""
 
+
+def my_function():
+    """Return the integer value 5."""
     a = 5
-    return a,
+    return a
 
 
 my_function()
